@@ -1,0 +1,35 @@
+h3{
+    color: rgb(8, 94, 36);
+}
+
+.card-header{
+    color: darkgoldenrod;
+}
+
+.imgfirst{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 2px solid rgb(8, 94, 36);
+}
+
+body{
+    background-color: rgb(204, 255, 255);
+}
+
+.card{
+    background-color: rgb(164, 226, 226);
+    margin: auto;
+}
+
+nav{
+    text-align: center;
+    font-size: 13px;
+}
+
+li{
+    text-align: justify;
+}
+
+.list-group-item{
+    background-color: rgb(189, 235, 235);
+}
